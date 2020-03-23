@@ -4,7 +4,9 @@ A program to create good Minecraft seeds.
 ___
 
 ## Update #1 (Taken From My [Reddit Post](https://www.reddit.com/r/Minecraft/comments/fn9jvr/update_1_generating_list_of_seeds_good_seed/))
-# Intro
+
+
+### Intro
 Hey everyone and welcome to my first update post for my "good-seed-generator".  In this update, I created a super simple program that generates a list of 100 seeds. 
 
 
