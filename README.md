@@ -22,7 +22,7 @@ All of the code for this project can be found on this Github Page:  [https://git
 
 
 ### Coming Up Next
-The next thing I am going to work on is (all automatically) putting the seeds into [Chunkbase Biome Finder](https://www.chunkbase.com/apps/biome-finder) with Selenium, zooming out all the way to make sure the entire generated map is viewable, and then taking a screenshot with Selenium, and then cropping the image to just the map with Pillow. After that, I am going to work on creating an algorithm to check if the seed has the all of the attributes that would define it as "good".
+The next thing I am going to work on is (all automatically) putting the seeds into [Chunkbase Biome Finder](https://www.chunkbase.com/apps/biome-finder) with Selenium, zooming out all the way to make sure the entire generated map is viewable, and then taking a screenshot with Selenium, and then cropping the image to just the map with Pillow. After that, I am going to work on creating an algorithm to check if the seed has all of the attributes that would define it as "good".
 
 
 ### Release Date Prediction
