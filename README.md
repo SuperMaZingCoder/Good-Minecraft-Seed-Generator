@@ -3,7 +3,7 @@ A program to create good Minecraft seeds.
 NOTE: The code is not fully hear yet because I am in the process of finding a license that fits the project.
 
 ___
-## Update #2 (Taken From My Reddit Post)
+## Update #1 (Taken From My Reddit Post)
 
 
 ### Intro
