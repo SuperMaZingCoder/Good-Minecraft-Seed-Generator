@@ -1,9 +1,12 @@
 # Good-Minecraft-Seed-Generator
-A program to create good Minecraft seeds.
+A program to create good Minecraft seeds. 
+NOTE: The code is not fully hear yet because I am in the process of finding a license that fits the project.
 
 ___
+## Update #2 (Taken From My Reddit Post)
 
-## Intro
+
+### Intro
 Hey everyone and welcome to my first update post for my "good-seed-generator".  In this update, I created a super simple program that generates a list of 100 seeds. 
 
 
